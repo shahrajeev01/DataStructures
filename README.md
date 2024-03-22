@@ -1,4 +1,4 @@
 # DataStructures
 Developing Data Structures
 <br>
-author: Rajeev Shah
+Author: Rajeev Shah (Active)
